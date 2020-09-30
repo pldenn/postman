@@ -1,3 +1,5 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/89752ikqnbs6xyri/branch/master?svg=true)](https://ci.appveyor.com/project/pldenn/postman/branch/master)
+
 ## Задача №3 - Postman Echo
 
 **Важно**: эту задачу нужно выполнять в отдельном репозитории
