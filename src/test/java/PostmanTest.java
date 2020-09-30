@@ -24,8 +24,8 @@ public class PostmanTest {
                 .statusCode(200)
                 .header("content-type","application/json; charset=utf-8")
 
-                .body("data.", is("тест fail"))
-                .body("data", equalTo("тест fail"))
+                .body("data.", is("тест"))
+                .body("data", equalTo("тест"))
         ;
     }
 }
